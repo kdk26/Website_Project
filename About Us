@@ -15,7 +15,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333333
+  background-color: orange
 
 ;
 }li {
@@ -27,14 +27,14 @@ ul {
   padding: 16px;
   text-decoration: none;
 }li a:hover {
-  background-color: red
+  background-color: 
 ;
 }
 </style>
   </head>
   <body>
-  <header>
-    <h1>About Us</h1>
+ <header>
+    <h1>Welcome to Curry Taco!</h1>
     </header>
 <ul>
   <li> <a href="About Us">About Us</a>  </li>
@@ -43,12 +43,30 @@ ul {
   <li> | </li>
   <li> <a href="Locations">Locations</a> </li>
 </ul>
-    <div class="container">
+ <br> </br> 
+    
+    <div class="container"><h2><p>Our Founders</p></h2>
   <div class="row">
     <div class="col-sm">
-<p>Our Founders and their Grandmothers</p>
 
-<p>Our Philosophy</p>
+      <div class="row">
+    <div class="col-sm">
+    <h4>
+      Aakarsh </h4>
+ 
+    <img src="picturesforwebsite/aakarshpic.jpg" height="300px" width="300px"/><br /><br />Aakarsh hails from India. He is a CFA, but his real passion is building flavor combinations and knitting sweaters out of his freshly plucked furr. He firmly believes in GAAP principles, and you can often find him tutoring finance and accounting during our peak business hours.
+    </div>
+    <div class="col-sm">
+     <h4> Alonso </h4>
+
+    <img src="picturesforwebsite/alonsopicwebsite.png" height="300px" width="300px"/><br /><br />Alonso is from Chihuahua, Mexico and is the mastermind behind our tortillas. An accountant by training, he applies his detail-oriented nature to cheese, which he only eats from selected farms in Chihuahua and France. He loves all dogs of medium stature.
+    </div>
+    </div>
+    </div></div>
+<div class="row">
+    <div class="col-sm"><br /><br />
+<h2><p>Our Philosophy</p></h2>
+<p> We believe in cooking like our grandmothers--strong women who live as boldly as the flavors they create. No one should have to choose between Indian food and Mexican tacos. Thanks to CurryTaco, you can have both at the same time. We also really liked the year 1996, as this website reflects. Keep it simple!</p>
 
 
     </div>    </div>    </div>

@@ -15,7 +15,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333333
+  background-color: orange
 
 ;
 }li {
@@ -27,39 +27,33 @@ ul {
   padding: 16px;
   text-decoration: none;
 }li a:hover {
-  background-color: red
+  background-color: orange
 ;
 }
 </style>
   </head>
   <body>
   <header>
-    <h1>Locations</h1>
+    <h1>Welcome to Curry Taco!</h1>
     </header>
-    <h2>Welcome to Juice Laundry!</h2>
+    
 <ul>
-  <li>We are 100%  </li>
-  <li>Organic  </li>
-  <li>/</li>
-  <li>Non-GMO  </li>
-  <li>/</li>
-  <li>Vegan  </li>
-  <li>/</li>
-  <li>Gluten Free  </li>
-  <li>/</li>
-  <li>Peanut Free  </li>
-  <li>/</li>
-  <li>Soy Free  </li>
-  <li>/</li>
-  <li>Dairy-Free  </li>
-  <li>/</li>
-  <li>100% of the time </li>
+  <li> <a href="About Us">About Us</a>  </li>
+  <li> | </li>
+  <li> <a href="Menu">Menu</a> </li>
+  <li> | </li>
+  <li> <a href="Locations">Locations</a> </li>
 </ul>
-    <div class="container">
+    <div class="container"><br /><br /><h2><p>Locations</p></h2>
   <div class="row">
     <div class="col-sm">
-    <ul><li>Rosslyn Location Address: Underneath Key Bridge</li>
-    <li>Dupon Circle Location Address: At the GUTS Bus Stop (Perfect for Long Waits)</li><li>U Street Location Address: Next to Ben's Chili Bowl</li><li> M Street Location Address: Don't come to this one, it won't be open for long</li></ul>
+    Rosslyn Location</div><div class="col-sm">Underneath Key Bridge</div><div class="col-sm"></div></div>
+     <div class="row">
+    <div class="col-sm">Dupont Circle Location </div><div class="col-sm"> At the GUTS Bus Stop (Perfect for Long Waits)</div><div class="col-sm"></div></div>
+     <div class="row">
+    <div class="col-sm">U Street Location </div><div class="col-sm"> Next to Ben's Chili Bowl </div><div class="col-sm"></div></div>
+     <div class="row">
+    <div class="col-sm">M Street Location </div><div class="col-sm">  Don't come to this one, it won't be open for long</div><div class="col-sm"></div></div>
     </div>    </div>    </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

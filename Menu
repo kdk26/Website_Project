@@ -27,85 +27,75 @@ ul {
   padding: 16px;
   text-decoration: none;
 }li a:hover {
-  background-color: red
+  background-color: 
 ;
 }
 </style>
   </head>
   <body>
   <header>
-    <h1>Our Menu</h1>
+    <h1>Welcome to Curry Taco!</h1>
     </header>
-    <h2>Welcome to Juice Laundry!</h2>
+    
 <ul>
-  <li>We are 100%  </li>
-  <li>Organic  </li>
-  <li>/</li>
-  <li>Non-GMO  </li>
-  <li>/</li>
-  <li>Vegan  </li>
-  <li>/</li>
-  <li>Gluten Free  </li>
-  <li>/</li>
-  <li>Peanut Free  </li>
-  <li>/</li>
-  <li>Soy Free  </li>
-  <li>/</li>
-  <li>Dairy-Free  </li>
-  <li>/</li>
-  <li>100% of the time </li>
+  <li> <a href="About Us">About Us</a>  </li>
+  <li> | </li>
+  <li> <a href="Menu">Menu</a> </li>
+  <li> | </li>
+  <li> <a href="Locations">Locations</a> </li>
 </ul>
-    <div class="container">
+    <div class="container"><br /><br /><h2><p>Our Menu</p></h2>
+    
   <div class="row">
     <div class="col-sm">
-      Paneer Taco
+      Paneer Taco ($7.50)
     </div>
     <div class="col-sm">
-      $7.50
+      Our homemade paneer with lots of spices on a corn tortilla
     </div>
     <div class="col-sm">
-      <img src="hi" height="110px" width="110px"/>
+      <img src="picturesforwebsite/paneertaco.jpg" height="150px" width="150px"/>
     </div>
     </div>
  <div class="row">
     <div class="col-sm">
-      Chicken Curry Taco
+      Chicken Curry Taco ($7.50)
     </div>
     <div class="col-sm">
-      $7.50
+      An Indian classic atop a freshly made flour tortilla topped with ghee
     </div>
     <div class="col-sm">
-      col 3
+      <img src="picturesforwebsite/chickencurrytaco.jpg" height="150px" width="150px"/>
     </div>
   </div>
    <div class="row">
     <div class="col-sm">
-      Veggie Okra "Hot Tamale" Taco
+      Veggie Okra "Hot Tamale" Taco ($7.50)
     </div>
     <div class="col-sm">
-      $7.50
+      Our delicious okra in a tamale wrapped in two corn tortillas
     </div>
     <div class="col-sm">
-      col 3
+      <img src="picturesforwebsite/hottamaletaco.jpg" height="150px" width="150px"/>
     </div>
 
     
   </div>
    <div class="row">
     <div class="col-sm">
-      Leftover Taco
+      Leftover Soup ($1.00)
     </div>
     <div class="col-sm">
-      $1.00
+      Whatever we have leftover thrown in a soup
     </div>
     <div class="col-sm">
-      col 3
+      <img src="picturesforwebsite/leftovertaco.jpg" height="150px" width="150px"/>
     </div>
 
     
  
 
-    
+   </h3> 
   </div>
     
   </div>
